@@ -1,0 +1,50 @@
+.ota {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 900px;
+}
+
+.h21 {
+  margin-bottom: 20px;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 100%;
+  letter-spacing: -1%;
+}
+
+.pca {
+  color: #16c098;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  letter-spacing: -1%;
+}
+
+.inputvsoption {
+  display: flex;
+  gap: 16px;
+}
+
+.inputvsoption input,
+select {
+  background-color: #f9fbff;
+  border: none;
+  width: 216px;
+}
+
+.del {
+  width: 185px;
+  display: flex;
+  border-radius: 10px;
+  padding: 10px 37px 10px 15px;
+}
+
+.spa {
+  font-size: 30px;
+}
+
+.in {
+  padding: 7px 13px 7px 8px;
+  border-radius: 10px;
+}
