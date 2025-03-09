@@ -4,7 +4,8 @@ function App() {
   return (
     <>
       <header></header>
-      <main></main>
+      <main>
+      </main>
       <footer></footer>
     </>
   );
