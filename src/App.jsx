@@ -1,10 +1,13 @@
-import './App.css'
+import "./App.css";
+// import 
 function App() {
   return (
     <>
-          
+      <header></header>
+      <main></main>
+      <footer></footer>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
