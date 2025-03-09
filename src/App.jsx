@@ -4,9 +4,6 @@ import Header from "./components/header/header";
 function App() {
   return (
     <>
-      <header>
-      </header>
-
       <header></header>
       <main>
       </main>
