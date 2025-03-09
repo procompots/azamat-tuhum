@@ -9,7 +9,7 @@ function Tableheader() {
      <p className='pca'>Active Members</p>
      </div>
       <div className="inputvsoption">
-      <input className='in'  placeholder='search' type="text"/>
+      <input className='in'  placeholder='search' type="search"/>
       <select className='del' name="" id="#">
         <option value="">short by: <span className='spa'>Newest</span></option>
         <option value="">short by:Newest2</option>

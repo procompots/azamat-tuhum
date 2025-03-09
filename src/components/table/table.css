@@ -42,12 +42,11 @@ td,
 th {
   padding-top: 20px;
   padding-bottom: 20px;
-  width: 140px;
+  width: 170px;
   text-align: right;
 }
 table {
-  padding: 40px 44px 30px 38px;
-  width: 100%;
+  padding: 40px 24px 30px 28px;
 }
 
 td {
@@ -60,10 +59,10 @@ tr {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #eeeeee;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 20px;
 }
 
-
-tbody tr{
-    padding: 10px 22px 10px 19px;
+tbody tr {
+  padding: 10px 22px 10px 19px;
 }
